@@ -1,0 +1,10 @@
+T1	treatment 70 9 70 9	sedation
+T2	treatment 72 4 72 4	diuretics
+T3	treatment 72 1 72 2	beta blockers
+T4	problem 75 4 75 7	burst of atrial fibrillation
+T5	disease 75 12 75 14	a amiodarone gtt
+T7	treatment 69 3 69 4	the procedure
+T8	test 69 13 69 14	invasive monitoring
+T9	test 61 17 61 17	hct
+T10	test 62 9 62 9	ptt
+T11	test 64 8 64 8	creat
